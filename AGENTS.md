@@ -264,6 +264,66 @@ Usage notes:
 </skill>
 
 <skill>
+<name>threejs-animation</name>
+<description>Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. Use when animating objects, playing GLTF animations, creating procedural motion, or blending animations.</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>threejs-fundamentals</name>
+<description>Three.js scene setup, cameras, renderer, Object3D hierarchy, coordinate systems. Use when setting up 3D scenes, creating cameras, configuring renderers, managing object hierarchies, or working with transforms.</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>threejs-geometry</name>
+<description>Three.js geometry creation - built-in shapes, BufferGeometry, custom geometry, instancing. Use when creating 3D shapes, working with vertices, building custom meshes, or optimizing with instanced rendering.</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>threejs-interaction</name>
+<description>Three.js interaction - raycasting, controls, mouse/touch input, object selection. Use when handling user input, implementing click detection, adding camera controls, or creating interactive 3D experiences.</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>threejs-lighting</name>
+<description>Three.js lighting - light types, shadows, environment lighting. Use when adding lights, configuring shadows, setting up IBL, or optimizing lighting performance.</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>threejs-loaders</name>
+<description>Three.js asset loading - GLTF, textures, images, models, async patterns. Use when loading 3D models, textures, HDR environments, or managing loading progress.</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>threejs-materials</name>
+<description>Three.js materials - PBR, basic, phong, shader materials, material properties. Use when styling meshes, working with textures, creating custom shaders, or optimizing material performance.</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>threejs-postprocessing</name>
+<description>Three.js post-processing - EffectComposer, bloom, DOF, screen effects. Use when adding visual effects, color grading, blur, glow, or creating custom screen-space shaders.</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>threejs-shaders</name>
+<description>Three.js shaders - GLSL, ShaderMaterial, uniforms, custom effects. Use when creating custom visual effects, modifying vertices, writing fragment shaders, or extending built-in materials.</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>threejs-textures</name>
+<description>Three.js textures - texture types, UV mapping, environment maps, texture settings. Use when working with images, UV coordinates, cubemaps, HDR environments, or texture optimization.</description>
+<location>project</location>
+</skill>
+
+<skill>
 <name>session-start-hook</name>
 <description>Creating and developing startup hooks for Claude Code on the web. Use when the user wants to set up a repository for Claude Code on the web, create a SessionStart hook to ensure their project can run tests and linters during web sessions.</description>
 <location>global</location>
